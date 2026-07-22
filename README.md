@@ -4,7 +4,7 @@ Working chatbot for HL7 C-CDA health summaries **without Agent Bricks**.
 
 ## Example UI
 
-Example question: *What medications is Emma on?*
+Example question: *EmmaTestPatient*
 
 ![Example chat UI](docs/screenshots/example-chat.png)
 
